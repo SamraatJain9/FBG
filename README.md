@@ -28,7 +28,7 @@ Getting Started
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:SamraatJain9/FBG.git
 cd <repository_name>
 ```
 
