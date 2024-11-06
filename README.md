@@ -29,7 +29,7 @@ Getting Started
 
 ```bash
 git clone git@github.com:SamraatJain9/FBG.git
-cd <repository_name>
+cd FBG
 ```
 
 ### 2. Install the requirements.txt
@@ -62,3 +62,10 @@ python face_recog.py
 
 ## Note
 - **Fail-safe Unlock**: Press **S → A → M** in sequence to trigger a password prompt.
+
+## Contributors
+The contributors of this project are: [Samraat Jain](https://github.com/SamraatJain9)
+
+## License
+License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
