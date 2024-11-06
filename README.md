@@ -52,7 +52,7 @@ This project requires the `shape_predictor_68_face_landmarks.dat` file, which is
 2. Extract the downloaded file if it is in a compressed format (e.g., `.bz2`).
 3. Place the `shape_predictor_68_face_landmarks.dat` file in the project root directory.
 
-### 5. How to Run
+## How to Run
 
 Once everything is set up, you can start the application by running the following command:
 
